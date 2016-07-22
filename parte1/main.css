@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.red{
+	width: 200px;
+	height: 200px;
+	position: static;
+	background: red;
+}
+.centro {
+	width: 100px;
+	height:100px;
+	position: absolute;
+	background: #752E80;
+	border:50px solid red;
+}
+.yellow {
+	width: 50px;
+	height:50px;
+	position: absolute;
+	background: yellow;
+}
