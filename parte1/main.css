@@ -11,9 +11,10 @@ body{
 .centro {
 	width: 100px;
 	height:100px;
-	position: absolute;
+	position: relative;
 	background: #752E80;
-	border:50px solid red;
+	left: 50px;
+    top: 50px;
 }
 .yellow {
 	width: 50px;
